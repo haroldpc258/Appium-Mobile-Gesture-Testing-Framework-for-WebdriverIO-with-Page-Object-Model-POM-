@@ -1,0 +1,8 @@
+<suite name="Web Automation Suite">
+    <parameter name="hostAddress" value="http://127.0.0.1:4723/wd/hub"/>
+    <test name="APP TESTS">
+        <classes>
+            <class name="com.globant.tests.WDIO_Tests"/>
+        </classes>
+    </test>
+</suite>

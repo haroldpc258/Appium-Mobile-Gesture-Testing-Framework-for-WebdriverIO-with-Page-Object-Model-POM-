@@ -1,0 +1,7 @@
+{
+  "deviceName": "Pixel_3a",
+  "appPackage": "com.wdiodemoapp",
+  "appActivity": "com.wdiodemoapp.MainActivity",
+  "platformName": "Android",
+  "automationName": "UiAutomator2"
+}
